@@ -1,0 +1,32 @@
+{
+    "lang": {
+        "th": {
+            "name": "18K",
+            "pronunce": "สิบ-แปด-เค",
+            "quote": "จงกลัวพวกเราในแบบที่พวกคุณต้องกลัว",
+            "story": "18K คือ 18 มงกุฎ ผู้หลอกลวงต้มตุ๋น โจร ผู้เห็นแก่ได้ ใช่ นี่คือความเป็นมาของเรา แต่ในโลกของเรา เราหลอกลวงความเศร้าจากผู้พบเห็น เราปลับความทุกข์จากผู้ฟัง เราการุณกรรมความผิดหวังจากผู้คน เพื่อมาเป็นของเรา โดยจะทิ้งแต่ความสุขที่ขาวสะอาค ไว้ให้ทุกๆทำนได้ติดตัวไปใช้ในชีวิตประจำวัน แค่นั้นเอง",
+            "founder": "MR จิ๊บ",
+            "yearEstablished": "2017",
+            "contact": [
+                "https://www.facebook.com/18KRADIO",
+                "https://twitter.com/18KRADIO",
+                "https://www.tiktok.com/@18kradio"
+            ],
+            "discord": "https://discord.gg/AsZgC95SYu"
+        },
+        "en": {
+            "name": "18K",
+            "pronunce": "sib-bad-k",
+            "quote": "Be afraid of us in the appropriate ways.",
+            "story": "18 crowns are a robber, and a jerk. This is, in fact, our past. But in our environment, we trick people's misery into thinking we're happy. We hide our listeners' anguish. We recognize the disappointment of the public. to become ours By leaving nothing but pure, white delight. That's all, for everyone to carry around and use in daily life.",
+            "founder": "MR JIB",
+            "yearEstablished": "2017",
+            "contact": [
+                "https://www.facebook.com/18KRADIO",
+                "https://twitter.com/18KRADIO",
+                "https://www.tiktok.com/@18kradio"
+            ],
+            "discord": "https://discord.gg/AsZgC95SYu"
+        }
+    }
+}
