@@ -62,19 +62,22 @@
                 const chatStart = document.createElement('div');
                 chatStart.className = 'chat chat-start';
                 chatStart.innerHTML = `<div class="chat-bubble">${keyData[i]}</div>`;
-                fragment.appendChild(chatStart);
 
                 const chatEnd = document.createElement('div');
                 chatEnd.className = 'chat chat-end';
                 chatEnd.innerHTML = `<div class="chat-bubble bg-warning text-warning-content th">${langData[keyData[i]]}</div>`;
-                fragment.appendChild(chatEnd);
 
-                if (i === 4) {
-                    break;
+                setTimeout(() => {
+                    fragment.appendChild(chatStart);
+                    fragment.appendChild(chatEnd);
+                    chatId[0].appendChild(fragment);
+                }, i * 500);
+                if (i == 5) {
+                    break
                 }
             }
 
-            chatId[0].appendChild(fragment);
+
         })
         .catch(error => console.error('Error:', error));
 </script>
