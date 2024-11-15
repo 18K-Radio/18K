@@ -2,7 +2,7 @@
 
 # 18K
 
-![](https://raw.githubusercontent.com/18K-Radio/18K/refs/heads/main/images/2024/logo.jpg)
+![a](https://raw.githubusercontent.com/18K-Radio/18K/refs/heads/main/images/2024/cover.png)
 
 </div>
 
