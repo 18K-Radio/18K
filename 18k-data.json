@@ -32,31 +32,31 @@
     "images": [
         {
             "2018": {
-                "logo": "https://raw.githubusercontent.com/18K-Radio/18K/16408f4b4dcb91dd146c068793bc32a40f72a8f2/images/2018/logo.jpg",
-                "cover": "https://raw.githubusercontent.com/18K-Radio/18K/16408f4b4dcb91dd146c068793bc32a40f72a8f2/images/2018/cover.jpg"
+                "logo": "https://raw.githubusercontent.com/18K-Radio/18K/refs/heads/main/images/2018/logo.png",
+                "cover": "https://raw.githubusercontent.com/18K-Radio/18K/refs/heads/main/images/2018/cover.jpg"
             },
             "2019": {
-                "logo": "https://raw.githubusercontent.com/18K-Radio/18K/16408f4b4dcb91dd146c068793bc32a40f72a8f2/images/2019/logo.jpg"
+                "logo": "https://raw.githubusercontent.com/18K-Radio/18K/refs/heads/main/images/2019/logo.png"
             },
             "2020": {
-                "logo": "https://raw.githubusercontent.com/18K-Radio/18K/16408f4b4dcb91dd146c068793bc32a40f72a8f2/images/2020/logo.jpg",
-                "cover": "https://raw.githubusercontent.com/18K-Radio/18K/16408f4b4dcb91dd146c068793bc32a40f72a8f2/images/2020/cover.jpg"
+                "logo": "https://raw.githubusercontent.com/18K-Radio/18K/refs/heads/main/images/2020/logo.jpg",
+                "cover": "https://raw.githubusercontent.com/18K-Radio/18K/refs/heads/main/images/2020/cover.jpg"
             },
             "2021": {
-                "logo": "https://raw.githubusercontent.com/18K-Radio/18K/16408f4b4dcb91dd146c068793bc32a40f72a8f2/images/2021/logo.jpg",
-                "cover": "https://raw.githubusercontent.com/18K-Radio/18K/16408f4b4dcb91dd146c068793bc32a40f72a8f2/images/2021/cover.jpg"
+                "logo": "https://raw.githubusercontent.com/18K-Radio/18K/refs/heads/main/images/2021/logo.jpg",
+                "cover": "https://raw.githubusercontent.com/18K-Radio/18K/refs/heads/main/images/2021/cover.png"
             },
             "2022": {
-                "logo": "https://raw.githubusercontent.com/18K-Radio/18K/16408f4b4dcb91dd146c068793bc32a40f72a8f2/images/2022/logo.jpg",
-                "cover": "https://raw.githubusercontent.com/18K-Radio/18K/16408f4b4dcb91dd146c068793bc32a40f72a8f2/images/2022/cover.jpg"
+                "logo": "https://raw.githubusercontent.com/18K-Radio/18K/refs/heads/main/images/2022/logo.jpg",
+                "cover": "https://raw.githubusercontent.com/18K-Radio/18K/refs/heads/main/images/2022/cover.jpg"
             },
             "2023": {
-                "logo": "https://raw.githubusercontent.com/18K-Radio/18K/16408f4b4dcb91dd146c068793bc32a40f72a8f2/images/2023/logo.jpg",
-                "cover": "https://raw.githubusercontent.com/18K-Radio/18K/16408f4b4dcb91dd146c068793bc32a40f72a8f2/images/2023/cover.jpg"
+                "logo": "https://raw.githubusercontent.com/18K-Radio/18K/refs/heads/main/images/2023/logo.jpg",
+                "cover": "https://raw.githubusercontent.com/18K-Radio/18K/refs/heads/main/images/2023/cover.jpg"
             },
             "2024": {
-                "logo": "https://raw.githubusercontent.com/18K-Radio/18K/16408f4b4dcb91dd146c068793bc32a40f72a8f2/images/2024/logo.jpg",
-                "cover": "https://raw.githubusercontent.com/18K-Radio/18K/16408f4b4dcb91dd146c068793bc32a40f72a8f2/images/2024/cover.jpg"
+                "logo": "https://raw.githubusercontent.com/18K-Radio/18K/refs/heads/main/images/2024/logo.jpg",
+                "cover": "https://raw.githubusercontent.com/18K-Radio/18K/refs/heads/main/images/2024/cover.png"
             }
         }
     ]
